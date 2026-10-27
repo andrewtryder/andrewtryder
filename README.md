@@ -3,7 +3,7 @@
 Hands-on technology professional focused on software, infrastructure, networking, and practical problem-solving. I build tools that make systems more reliable and useful — especially around Home Assistant, local automation, and real-world hardware.
 
 **Location:** New Hampshire  
-**Website:** [andrewtryder.com](https://www.andrewtryder.com) · **LinkedIn:** [andrewtryder](https://www.linkedin.com/in/andrewtryder/)
+**Website:** [andrewtryder.com](https://www.andrewtryder.com)
 
 ---
 
@@ -42,4 +42,4 @@ Full list and details: [andrewtryder.com/home-assistant](https://www.andrewtryde
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewtryder&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/andrewtryder)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtryder&layout=compact&theme=github_dark&hide_border=true)](https://github.com/andrewtryder)
+[![Top Languages](https://github.com/andrewtryder/andrewtryder&layout=compact&theme=github_dark&hide_border=true)](https://github.com/andrewtryder)
