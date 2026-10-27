@@ -42,4 +42,4 @@ Full list and details: [andrewtryder.com/home-assistant](https://www.andrewtryde
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewtryder&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/andrewtryder)
-[![Top Languages](https://github.com/andrewtryder/andrewtryder&layout=compact&theme=github_dark&hide_border=true)](https://github.com/andrewtryder)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtryder&layout=compact&theme=github_dark&hide_border=true)](https://github.com/andrewtryder)
