@@ -5,6 +5,8 @@ Hands-on technology professional focused on software, infrastructure, networking
 **Location:** New Hampshire  
 **Website:** [andrewtryder.com](https://www.andrewtryder.com)
 
+[Projects](https://www.andrewtryder.com/projects/) · [Home Assistant](https://www.andrewtryder.com/home-assistant/) · [Photography](https://www.andrewtryder.com/creative/) · [Contact](https://www.andrewtryder.com/contact/)
+
 ---
 
 ### Home Assistant integrations
@@ -29,8 +31,8 @@ Full list and details: [andrewtryder.com/home-assistant](https://www.andrewtryde
 ### Other projects
 
 **Closed-source / private source**
-- **[PoaIndex](https://www.andrewtryder.com)** — Historical turfgrass trial research comparison and cultivar recommendations grounded in local/regional evidence
-- **[NH Fuel Watch](https://www.andrewtryder.com)** — New Hampshire heating fuel (oil & propane) price comparison and historical trends
+- **[PoaIndex](https://www.poaindex.com/)** — Historical turfgrass trial research comparison and cultivar recommendations grounded in local/regional evidence
+- **[NH Fuel Watch](https://nhfuelwatch.com/)** — New Hampshire heating fuel (oil & propane) price comparison and historical trends
 
 **Public**
 - **[catholic-mass-readings](https://github.com/andrewtryder/catholic-mass-readings)** — TypeScript library + CLI for USCCB daily Mass readings
@@ -41,5 +43,8 @@ Full list and details: [andrewtryder.com/home-assistant](https://www.andrewtryde
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewtryder&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/andrewtryder)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtryder&layout=compact&theme=github_dark&hide_border=true)](https://github.com/andrewtryder)
+### Photography
+
+Outside of software and systems, I enjoy landscape photography, especially around New England. I’m interested in natural light, weather, and how landscapes change with the seasons.
+
+[View my photography on Flickr](https://www.flickr.com/photos/andrewtryder/)
