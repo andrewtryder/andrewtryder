@@ -9,6 +9,23 @@ Hands-on technology professional focused on software, infrastructure, networking
 
 ---
 
+### Projects
+
+**Closed-source / private source**
+- **[PoaIndex](https://www.poaindex.com/)** — Historical turfgrass trial research comparison and cultivar recommendations grounded in local/regional evidence
+- **[NH Fuel Watch](https://nhfuelwatch.com/)** — New Hampshire heating fuel (oil & propane) price comparison and historical trends
+
+**Public**
+- **[catholic-mass-readings](https://github.com/andrewtryder/catholic-mass-readings)** — TypeScript library + CLI for USCCB daily Mass readings
+- **[unifi-netwatcher](https://github.com/andrewtryder/unifi-netwatcher)** — Unknown-device monitor for UniFi controllers
+- **[cyberpower-ups](https://github.com/andrewtryder/cyberpower-ups)** — C++17 library/CLI for CyberPower UPS (USB HID / serial)
+- **[docknet](https://github.com/andrewtryder/docknet)** — Native macOS menu-bar Ethernet/Wi-Fi failover observer
+- **[snhu-tools](https://snhu-tools.vercel.app)** — Unofficial interactive SNHU degree maps, transfer credits, and course tools
+- **[sunsethue-macos](https://github.com/andrewtryder/sunsethue-macos)** — Native macOS app for sunrise/sunset quality forecasts across saved locations
+- **[car-part-watcher](https://github.com/andrewtryder/car-part-watcher)** — Saved auto-parts searches, inventory monitoring, and new-listing notifications
+
+---
+
 ### Home Assistant integrations
 
 I build and maintain public custom integrations (HACS) that bring household devices, utilities, and services into local dashboards and automations.
@@ -25,21 +42,6 @@ I build and maintain public custom integrations (HACS) that bring household devi
 - **[ha-sunsethue](https://github.com/andrewtryder/ha-sunsethue)** — SunsetHue sunrise/sunset quality forecasts
 
 Full list and details: [andrewtryder.com/home-assistant](https://www.andrewtryder.com/home-assistant/)
-
----
-
-### Other projects
-
-**Closed-source / private source**
-- **[PoaIndex](https://www.poaindex.com/)** — Historical turfgrass trial research comparison and cultivar recommendations grounded in local/regional evidence
-- **[NH Fuel Watch](https://nhfuelwatch.com/)** — New Hampshire heating fuel (oil & propane) price comparison and historical trends
-
-**Public**
-- **[catholic-mass-readings](https://github.com/andrewtryder/catholic-mass-readings)** — TypeScript library + CLI for USCCB daily Mass readings
-- **[unifi-netwatcher](https://github.com/andrewtryder/unifi-netwatcher)** — Unknown-device monitor for UniFi controllers
-- **[cyberpower-ups](https://github.com/andrewtryder/cyberpower-ups)** — C++17 library/CLI for CyberPower UPS (USB HID / serial)
-- **[docknet](https://github.com/andrewtryder/docknet)** — Native macOS menu-bar Ethernet/Wi-Fi failover observer
-- **[snhu-tools](https://snhu-tools.vercel.app)** — Unofficial interactive SNHU degree maps, transfer credits, and course tools
 
 ---
 
