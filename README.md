@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1512,45:16382F,100:4A8F73&height=180&section=header&text=Andrew%20Ryder&fontSize=56&fontColor=F0F6FC&fontAlignY=38&desc=Technical%20Consultant%20and%20Solutions%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F3ED,45:D8DCD5,100:365B50&height=180&section=header&text=Andrew%20Ryder&fontSize=56&fontColor=202A28&fontAlignY=38&desc=Technical%20Consultant%20and%20Solutions%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" />
-    <img alt="Andrew Ryder" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1512,45:16382F,100:4A8F73&height=180&section=header&text=Andrew%20Ryder&fontSize=56&fontColor=F0F6FC&fontAlignY=38&desc=Technical%20Consultant%20and%20Solutions%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1512%2C45:16382F%2C100:4A8F73&height=180&section=header&text=Andrew%20Ryder&fontSize=56&fontColor=F0F6FC&fontAlignY=38&desc=Technical%20Consultant%20and%20Solutions%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F3ED%2C45:D8DCD5%2C100:365B50&height=180&section=header&text=Andrew%20Ryder&fontSize=56&fontColor=202A28&fontAlignY=38&desc=Technical%20Consultant%20and%20Solutions%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" />
+    <img alt="Andrew Ryder" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1512%2C45:16382F%2C100:4A8F73&height=180&section=header&text=Andrew%20Ryder&fontSize=56&fontColor=F0F6FC&fontAlignY=38&desc=Technical%20Consultant%20and%20Solutions%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
   </picture>
 
   <picture>
@@ -121,9 +121,9 @@ Outside of software and systems, I enjoy landscape photography, especially aroun
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1512,45:16382F,100:4A8F73&height=90&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F3ED,45:D8DCD5,100:365B50&height=90&section=footer" />
-    <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1512,45:16382F,100:4A8F73&height=90&section=footer" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1512%2C45:16382F%2C100:4A8F73&height=90&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F3ED%2C45:D8DCD5%2C100:365B50&height=90&section=footer" />
+    <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1512%2C45:16382F%2C100:4A8F73&height=90&section=footer" width="100%" />
   </picture>
 </div>
 
