@@ -20,14 +20,6 @@ Hands-on technology professional focused on software, infrastructure, networking
 
 [Projects](https://www.andrewtryder.com/projects/) · [Home Assistant](https://www.andrewtryder.com/home-assistant/) · [Photography](https://www.andrewtryder.com/creative/) · [Contact](https://www.andrewtryder.com/contact/)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,ts,swift,py,js,cloudflare,docker,apple&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,ts,swift,py,js,cloudflare,docker,apple&theme=light" />
-    <img alt="C++, TypeScript, Swift, Python, JavaScript, Cloudflare, Docker, and macOS" src="https://skillicons.dev/icons?i=cpp,ts,swift,py,js,cloudflare,docker,apple&theme=dark" />
-  </picture>
-</div>
-
 ---
 
 ### 🚀 Projects
